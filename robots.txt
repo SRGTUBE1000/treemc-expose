@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://treemc-expose.vercel.app/sitemap.xml
